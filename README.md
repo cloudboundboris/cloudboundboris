@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio Site coming soon.](Portfolio Site coming soon.)
 
-- 📝 I regularly write articles on [https://cloudboundboris.hashnode.dev/](https://cloudboundboris.hashnode.dev/)
+- 📝 I regularly write articles on [https://www.levenzonlabs.com/](https://www.levenzonlabs.com/)
 
 - 💬 Ask me about **VMWare, Servers, Networking**
 
