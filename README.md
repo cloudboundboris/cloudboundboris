@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Virtualization, Networking, Automation, Linux**
 
-- 📫 How to reach me **blevenzon@gmail.com**
+- 📫 How to reach me **boris@levenzonlabs.com**
 
 - ⚡ Fun fact **I like tabs over spaces.**
 
