@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://www.levenzonlabs.com/](https://www.levenzonlabs.com/)
 
-- 💬 Ask me about **VMWare, Servers, Networking**
+- 💬 Ask me about **Virtualizatoin, Networking, Automation, Linux**
 
 - 📫 How to reach me **blevenzon@gmail.com**
 
