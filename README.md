@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/cloudboundboris" target="blank"><img src="https://img.shields.io/twitter/follow/cloudboundboris?logo=twitter&style=for-the-badge" alt="cloudboundboris" /></a> </p>
 
-- 🔭 I’m currently working on **CQURE Advanced Windows Security Course 2025**
+- 🔭 I’m currently working on **KubeCraft - DevOps**
 
-- 🌱 I’m currently learning **Ansible and Terraform**
+- 🌱 I’m currently learning **Kubernetes & GitOps**
 
 - 👨‍💻 All of my projects are available at [Portfolio Site coming soon.](Portfolio Site coming soon.)
 
